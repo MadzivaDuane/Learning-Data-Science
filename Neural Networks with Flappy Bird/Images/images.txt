@@ -1,0 +1,6 @@
+List of images required for the Flappy Bird Game:
+
+1. Base image
+2. Pipe image
+3. Bird images (3, for wing motion/ animation)
+4. Background image
