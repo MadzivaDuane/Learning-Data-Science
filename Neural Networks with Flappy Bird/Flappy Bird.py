@@ -20,11 +20,11 @@ gen = 0
 #load the birds first - three birds are in motion of flapping wings
 #transform.scale2x - increases size of image by 2, image.load - loads the image
 path = "/Users/duanemadziva/Documents/_ Print (Hello World)/Learning Python/PythonVS/Tech With Tim"  #directory
-bird_images = [pygame.transform.scale2x(pygame.image.load(os.path.join(path+"/imgs", "bird1.png"))), pygame.transform.scale2x(pygame.image.load(os.path.join(path+"/imgs", "bird2.png"))), pygame.transform.scale2x(pygame.image.load(os.path.join(path+"/imgs", "bird3.png")))] #create them as a list 
+bird_images = [pygame.transform.scale2x(pygame.image.load(os.path.join(path+"/images", "bird1.png"))), pygame.transform.scale2x(pygame.image.load(os.path.join(path+"/imgs", "bird2.png"))), pygame.transform.scale2x(pygame.image.load(os.path.join(path+"/imgs", "bird3.png")))] #create them as a list 
 #pipe, base and background images
-pipe_image = pygame.transform.scale2x(pygame.image.load(os.path.join(path+"/imgs", "pipe.png")))
-base_image = pygame.transform.scale2x(pygame.image.load(os.path.join(path+"/imgs", "base.png")))
-background_image = pygame.transform.scale2x(pygame.image.load(os.path.join(path+"/imgs", "bg.png")))
+pipe_image = pygame.transform.scale2x(pygame.image.load(os.path.join(path+"/images", "pipe.png")))
+base_image = pygame.transform.scale2x(pygame.image.load(os.path.join(path+"/images", "base.png")))
+background_image = pygame.transform.scale2x(pygame.image.load(os.path.join(path+"/images", "bg.png")))
 
 #create score bar
 stat_font = pygame.font.SysFont("comicsans", 50)
