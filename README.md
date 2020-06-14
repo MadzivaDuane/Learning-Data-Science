@@ -4,3 +4,4 @@ As a beginner data analyst, this repository is an aggragate of projects I have l
 
 The projects learnt are as follows:
 1. Flappy Bird with NEAT Module Tutorial: Tech By Tim (https://www.youtube.com/watch?v=MMxFDaIOHsE&list=PLzMcBGfZo4-lwGZWXz5Qgta_YNX3_vLS2)
+2. Basic Linear Regression with Keras: Predict fuel efficiency (https://www.tensorflow.org/tutorials/keras/regression) with comparison to Statsmodel SMF Linear Regression.
